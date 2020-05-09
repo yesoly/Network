@@ -1,3 +1,3 @@
 # Network
-20-1 CAUACE Network Application and Design
+20-1 CAUCSE Network Application and Design  
 Socket Programming Homework
