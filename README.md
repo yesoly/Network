@@ -5,11 +5,11 @@ Socket Programming Homework
 ### HW2
 - **Socket Programming with Header Information** 
 - Client program should show a menu with five options, and take user input for the selection.
-> option 1) convert text to UPPER-case letters.
-> option 2) ask the server what is the IP address and port number of the client (myself).
-> option 3) ask the server what the current time on the server is.
-> option 4) ask the server program how long it has been running for since it started (unit: seconds).
-> option 5) exit client program
+> option 1) convert text to UPPER-case letters.  
+> option 2) ask the server what is the IP address and port number of the client (myself).  
+> option 3) ask the server what the current time on the server is.  
+> option 4) ask the server program how long it has been running for since it started (unit: seconds).  
+> option 5) exit client program  
 
 ### HW3
 - **Socket Programming with Multiple Clients
@@ -26,14 +26,14 @@ the number of clients as
 that client.
 - Chat room commands
 > `\users`                    // show the <nickname, IP, port> list of all users
-> `\wh <nickname> <message>`  // whisper to <nickname>
-> `\exit`                     // disconnect from server, and quit
-> `\version`                  // show server's software version (& client software version)
-> `\rename <nickname>`        // change my nickname
-> `\rtt`                      // show RTT (round trip time) from the client to the server and back
+> `\wh <nickname> <message>`  // whisper to <nickname>  
+> `\exit`                     // disconnect from server, and quit  
+> `\version`                  // show server's software version (& client software version)  
+> `\rename <nickname>`        // change my nickname  
+> `\rtt`                      // show RTT (round trip time) from the client to the server and back  
 
 ### HW5
 - **File Transfer in Chatting App**
 - Chat room commands
-> `\fsend <filename>`              // send <filename> to everyone
-> ~~`wsend <filename> <nickname>`  // send <filename> to <nickname> only~~
+> `\fsend <filename>`              // send <filename> to everyone  
+> ~~`wsend <filename> <nickname>`  // send <filename> to <nickname> only~~  
